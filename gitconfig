@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marcel_hesse@outlook.com
+	name = Marcel Hesse
